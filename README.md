@@ -42,19 +42,21 @@ I'm Johnny and I am currently in my fourth year studying computer science at the
 ![Notion](https://img.shields.io/badge/Notion-black?logo=notion)
 
 ### 🔭 I’m currently working on ...
-* Building a ML powered slackbot for data access and support as a SWE Intern @ [Riot Games](https://www.riotgames.com/en)
-* Connecting with PMs in the industry to help educate students about Product Management as a Sponsorship Director @ [UWPM](https://www.instagram.com/uwaterloopm/?hl=en)
+* Working on competitive systems for top esports game VALORANT as a SWE Intern @ [Riot Games](https://www.riotgames.com/en)
 
 ### 👯 Previously worked on ... 
+* Designing a XG Boost ML model for hardware data validation as a SWE Intern @ [Apple](https://www.apple.com/)
+* Building a ML powered slackbot for data access and support as a SWE Intern @ [Riot Games](https://www.riotgames.com/en)
 * Creating a business lead recommender system as a Data Science Intern @ [Scotiabank](https://www.scotiabank.com/ca/en/personal.html)
 * Crafting an educational mobile music game as a Game/Applications Developer Intern @ [Sonical.ly](https://www.sonical.ly/)
 
+* Connecting with PMs in the industry to help educate students about Product Management as a Sponsorship Director @ [UWPM](https://www.instagram.com/uwaterloopm/?hl=en)
+
 ### 🌱 I’m currently learning ...
-* Fullstack
-* Web3 
+* Cloud Computing 
 
 ### 💬 Ask me about ...
-* Playing Valorant and COD
+* Playing Valorant, Spiderman Miles Morales, and COD
 * Following the NFL 🏈
 
 ### 📫 How to reach me ...
