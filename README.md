@@ -29,6 +29,7 @@ I'm Johnny and I am currently in my fourth year studying computer science at the
 ![Firebase](https://img.shields.io/badge/Firebase-1967d3?logo=firebase)
 ![MongoDB](https://img.shields.io/badge/MongoDB-424950?logo=mongodb)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?&logo=sqlite&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 
 **Tools**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/Git-efefe7?logo=git)
@@ -40,7 +41,6 @@ I'm Johnny and I am currently in my fourth year studying computer science at the
 ![Figma](https://img.shields.io/badge/Figma-0ac97f?logo=figma)
 ![Slack](https://img.shields.io/badge/Slack-501651?logo=slack)
 ![Notion](https://img.shields.io/badge/Notion-black?logo=notion)
-![Slack](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 
 ### 🔭 I’m currently working on ...
 * Working on competitive systems for top esports game VALORANT as a SWE Intern @ [Riot Games](https://www.riotgames.com/en)
