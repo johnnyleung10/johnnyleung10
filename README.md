@@ -3,7 +3,7 @@
 I'm Johnny and I am currently in my fourth year studying computer science at the University of Waterloo.
 
 ### Skills 👨‍💻
-**Languages**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**Languages**</br>
 ![Python](https://img.shields.io/badge/Python-ffdb66?logo=python)
 ![C++](https://img.shields.io/badge/C++-314968?logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ec1a8c?logo=javascript)
@@ -13,7 +13,7 @@ I'm Johnny and I am currently in my fourth year studying computer science at the
 ![HTML](https://img.shields.io/badge/HTML-e4e4e4?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-30ace0?logo=css3)
 
-**Frameworks/Libraries**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**Frameworks/Libraries**</br>
 ![React](https://img.shields.io/badge/React-282c34?logo=react)
 ![NodeJS](https://img.shields.io/badge/Node.js-333333?logo=nodedotjs)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?&logo=django)
@@ -24,14 +24,14 @@ I'm Johnny and I am currently in my fourth year studying computer science at the
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?&logo=scipy&logoColor=%white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&logo=TensorFlow&logoColor=white)
 
-**Data Storage**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**Data Storage**</br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-e7eae8?logo=postgresql)
 ![Firebase](https://img.shields.io/badge/Firebase-1967d3?logo=firebase)
 ![MongoDB](https://img.shields.io/badge/MongoDB-424950?logo=mongodb)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?&logo=sqlite&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 
-**Tools**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**Tools**</br>
 ![Git](https://img.shields.io/badge/Git-efefe7?logo=git)
 ![Docker](https://img.shields.io/badge/Docker-012b66?logo=docker)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?&logo=jenkins&logoColor=white)
