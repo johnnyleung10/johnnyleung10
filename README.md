@@ -5,11 +5,15 @@ I'm Johnny and I am currently in my fourth year studying computer science at the
 ### Skills 👨‍💻
 **Languages**</br>
 ![Python](https://img.shields.io/badge/Python-ffdb66?logo=python)
-![C++](https://img.shields.io/badge/C++-314968?logo=cplusplus)
+![Go](https://img.shields.io/badge/Go-fddd1c?logo=go)
+![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ec1a8c?logo=javascript)
+![C++](https://img.shields.io/badge/C++-314968?logo=cplusplus)
 ![Kotlin](https://img.shields.io/badge/Kotlin-ff4b58?logo=kotlin)
 ![Java](https://img.shields.io/badge/Java-e0211b?logo=java)
-![Go](https://img.shields.io/badge/Go-fddd1c?logo=go)
+![Scala](https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-e4e4e4?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-30ace0?logo=css3)
 
@@ -32,6 +36,7 @@ I'm Johnny and I am currently in my fourth year studying computer science at the
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 
 **Tools**</br>
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-efefe7?logo=git)
 ![Docker](https://img.shields.io/badge/Docker-012b66?logo=docker)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?&logo=jenkins&logoColor=white)
