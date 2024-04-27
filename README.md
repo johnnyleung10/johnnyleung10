@@ -35,12 +35,9 @@ I'm Johnny and I am currently in my fourth year studying computer science at the
 ![Git](https://img.shields.io/badge/Git-efefe7?logo=git)
 ![Docker](https://img.shields.io/badge/Docker-012b66?logo=docker)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?&logo=jenkins&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0066b8?logo=visualstudiocode)
 ![Postman](https://img.shields.io/badge/Postman-ffffff?logo=postman)
 ![Jira](https://img.shields.io/badge/Jira-0052cc?logo=jira)
 ![Figma](https://img.shields.io/badge/Figma-0ac97f?logo=figma)
-![Slack](https://img.shields.io/badge/Slack-501651?logo=slack)
-![Notion](https://img.shields.io/badge/Notion-black?logo=notion)
 
 ### 🔭 I’m currently working on ...
 * Working on competitive systems for top esports game VALORANT as a SWE Intern @ [Riot Games](https://www.riotgames.com/en)
