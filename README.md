@@ -45,7 +45,7 @@ I'm Johnny and I am currently in my fourth year studying computer science at the
 ![Figma](https://img.shields.io/badge/Figma-0ac97f?logo=figma)
 
 ### 🔭 I’m currently working on ...
-* Working on competitive systems for top esports game VALORANT as a SWE Intern @ [Riot Games](https://www.riotgames.com/en)
+* Working on competitive matchmaking services for top esports game VALORANT as a SWE Intern @ [Riot Games](https://www.riotgames.com/en)
 
 ### 👯 Previously worked on ... 
 * Designing a XG Boost ML model for hardware data validation as a SWE Intern @ [Apple](https://www.apple.com/)
@@ -53,10 +53,11 @@ I'm Johnny and I am currently in my fourth year studying computer science at the
 * Creating a business lead recommender system as a Data Science Intern @ [Scotiabank](https://www.scotiabank.com/ca/en/personal.html)
 * Crafting an educational mobile music game as a Game/Applications Developer Intern @ [Sonical.ly](https://www.sonical.ly/)
 
-* Connecting with PMs in the industry to help educate students about Product Management as a Sponsorship Director @ [UWPM](https://www.instagram.com/uwaterloopm/?hl=en)
+* Connecting with PMs in the industry to help educate students about Product Management as VP Internal @ [UWPM](https://www.instagram.com/uwaterloopm/?hl=en)
 
 ### 🌱 I’m currently learning ...
-* Cloud Computing 
+* iOS Development
+* Cloud Computing
 
 ### 💬 Ask me about ...
 * Playing Valorant, Spiderman Miles Morales, and COD
@@ -64,6 +65,5 @@ I'm Johnny and I am currently in my fourth year studying computer science at the
 * Why the Pelicans are the best team in the NBA 🏀
 
 ### 📫 How to reach me ...
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:johnnyleung2001@google.com"><img width=30 src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
 <a href="https://www.linkedin.com/in/johnny-leung10/"><img width=30 src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
